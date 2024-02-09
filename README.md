@@ -1,2 +1,2 @@
-# complex-calculator
-Complex Number Calculator created in C#
+# Complex Number Calculator created in C#
+
